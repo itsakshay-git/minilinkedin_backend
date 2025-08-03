@@ -23,6 +23,7 @@ This is the backend for a LinkedIn-like social media application. It provides AP
 ## 📁 Folder Structure
 ```
 
+```
 backend/
 ├── controllers/ # Route logic
 ├── middleware/ # Auth middleware
@@ -31,9 +32,6 @@ backend/
 ├── config/db.js # MongoDB connection setup
 ├── server.js # Entry point
 └── .env # Environment config
-
-```
-
 ```
 
 ## 🔐 Environment Variables
