@@ -3,6 +3,9 @@
 
 This is the backend for a LinkedIn-like social media application. It provides APIs for user registration, authentication, profile management, posting, and following users.
 
+## live link
+https://minilinkedin-backend.onrender.com
+
 ## 🚀 Features
 
 - User login and registration with JWT authentication
